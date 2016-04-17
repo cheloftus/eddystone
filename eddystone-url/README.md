@@ -78,3 +78,4 @@ Note:
 ## See Also
 
 * **[Configuration Service Specification](docs/config-service-spec.md)** — An optional GATT service for configuring the Eddystone-URL output of your beacon
+* **[Eddystone-EURL](docs/eddystone-eurl.md)** — An extension to Eddystone-URL providing a proof of location ephemeral ID
